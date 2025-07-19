@@ -54,6 +54,5 @@ Run the Jupyter notebook:
 
     GitHub Repository
 
-    Email: amirhosssein@example.com
+    Email: amirhossssein0Gmail.com.com
 
-<p align="center">Made with ❤️ by amirhosssein0</p> ```
